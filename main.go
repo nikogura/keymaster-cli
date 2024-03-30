@@ -13,7 +13,7 @@
 
 package main
 
-import "github.com/scribd/keymaster-cli/cmd"
+import "github.com/nikogura/keymaster-cli/cmd"
 
 func main() {
 	cmd.Execute()
